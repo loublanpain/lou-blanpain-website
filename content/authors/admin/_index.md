@@ -1,66 +1,65 @@
 ---
 # Display name
-name: Michael Vahn
+name: Lou T. Blanpain
 avatar_image: "user-full.png"
 # Username (this should match the folder name)
 authors:
 - admin
 # resume download button
 btn:
-- url : "https://sourcethemes.com/academic/docs/install/"
-  label : "Download Resume"
+- url : " "
+  label : "Download CV"
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MD-PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Emory University School of Medicine
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "TO COMPLETE"
 
 # Should the user's education and interests be displayed?
-display_education: false
+display_education: true
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Intracranial neurophysiology
+- Neuromodulation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Neuroscience
+    institution: Emory University School of Medicine, Atlanta, USA
+    year: May 2023
+  - course: BA in Neuroscience, Molecular and Cellular Biology
+    institution: Johns Hopkins University, Baltimore, USA
+    year: May 2014
+  - course: French Baccalaureate
+    institution: Lycée Louis le Grand, Paris, France
+    year: May 2010
 
 # Social/academia Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: twitter
+#   icon_pack: fab
+#   link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=kids2hcAAAAJ&hl=en
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -77,7 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.
+TO COMPLETE
