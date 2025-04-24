@@ -28,6 +28,7 @@ bio: "TO COMPLETE"
 display_education: true
 
 interests:
+- Functional neurosurgery
 - Intracranial neurophysiology
 - Neuromodulation
 
