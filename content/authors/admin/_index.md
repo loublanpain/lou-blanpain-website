@@ -34,10 +34,10 @@ interests:
 education:
   courses:
   - course: PhD in Neuroscience
-    institution: Emory University School of Medicine, Atlanta, USA
+    institution: Emory University School of Medicine, Atlanta, GA
     year: May 2023
   - course: BA in Neuroscience, Molecular and Cellular Biology
-    institution: Johns Hopkins University, Baltimore, USA
+    institution: Johns Hopkins University, Baltimore, MD
     year: May 2014
   - course: French Baccalaureate
     institution: Lycée Louis le Grand, Paris, France

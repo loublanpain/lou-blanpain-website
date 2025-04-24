@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
-subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
+title = "Skills and Hobbies"
+subtitle = ""
 
 # Showcase personal skills or business features.
 # 
@@ -17,25 +17,19 @@ subtitle = "I AM REALLY GOOD AT THE FOLLOWING TECHNICAL SKILLS"
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Analysis"
-  parcent = "90%"
+  name = "Coding"
+  parcent = "MATLAB, Python, Java, R"
   
 [[feature]]
   icon = "user-secret"
   icon_pack = "fas"
-  name = "Leadership"
-  parcent = "80%"  
+  name = "Language"
+  parcent = "English (fluent), French (native), Italian (competent), Spanish (basic)"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  parcent = "70%"
-  
-[[feature]]
-  icon = "searchengin"
-  icon_pack = "fab"
-  name = "Research"
-  parcent = "95%"
+  name = "Sports"
+  parcent = "Endurance (1 marathons, 3 half-marathons, 2 triathlons), water sports (sailing, kite-surfing, surfing)"
 
 +++
