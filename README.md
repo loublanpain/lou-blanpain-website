@@ -4,7 +4,7 @@
 
 <h2 align="center"><a target="_blank" href="https://demo.gethugothemes.com/academia" rel="nofollow">👀Demo</a> | <a target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Facademia%2Fsite%2F&form_factor=desktop" rel="nofollow">Page Speed (97%)🚀</a> </h2>
 
-
+ 
 <p align=center>
   <a href="https://github.com/gohugoio/hugo/releases/tag/v0.124.1" alt="Contributors">
     <img src="https://img.shields.io/static/v1?label=min-HUGO-version&message=0.124.1&color=f00&logo=hugo" />
