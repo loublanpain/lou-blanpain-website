@@ -90,7 +90,7 @@ target = '$1'
 # Caches
 [caches]
   [caches.images]
-    dir = ":resourceDir/_gen"
+    dir = ':cacheDir/images'
     maxAge = "720h"
 
   [caches.assets]
