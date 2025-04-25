@@ -2,13 +2,13 @@
 # Hero widget.
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 10  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+#hero_media = "user-3.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -24,23 +24,22 @@ hero_media = "user-2.jpg"
   # gradient_end = "#000"
   
   # Background image.
-  # image = ""  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+   image = "background.jpg"  # Name of image in `static/img/`.
+   image_darken = 0.7  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "authors/admin/"
-  label = "Know more"
+#[btn]
+#  url = "#about"
+#  label = "Know more"
   
-[btn_alt]
-  url = "#contact"
-  label = "Contact me"
+#[btn_alt]
+#  url = "#contact"
+#  label = "Contact me"
 
 +++
-## My name is **Lou Blanpain** and I'm an **MD-PhD student** specializing in **Neuroscience**
-
+## Originally Belgo-French, Lou was born in Paris and grew up in Brussels, Torino and NYC. After finishing high-school in his home-town, he pursued his interests in Neuroscience at Johns Hopkins University, and later joined Emory's MD-PhD program. TO COMPLETE

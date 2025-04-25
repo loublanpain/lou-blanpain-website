@@ -6,9 +6,9 @@ avatar_image: "user-full.png"
 authors:
 - admin
 # resume download button
-btn:
-- url : " "
-  label : "Download CV"
+#btn:
+#- url : " "
+#  label : "Download CV"
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,7 +22,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "TO COMPLETE"
+bio: ""
 
 # Should the user's education and interests be displayed?
 display_education: true
@@ -55,6 +55,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: 
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lou-blanpain-a8934bb4/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=kids2hcAAAAJ&hl=en
@@ -77,4 +80,3 @@ user_groups:
 - Visitors
 ---
 
-TO COMPLETE

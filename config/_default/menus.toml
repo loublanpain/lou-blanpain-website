@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#experience-research"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Medical"
+  url = "#experience-medical"
   weight = 30
 
 [[main]]
@@ -24,8 +24,8 @@
   weight = 40
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Skills"
+  url = "#skills"
   weight = 50
 
 [[main]]
@@ -54,3 +54,4 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
+

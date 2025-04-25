@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 45  # Order that this section will appear.
 
-title = "Research Experience"
+title = "Medical Experience"
 subtitle = " "
 
 # Date format for experience
@@ -19,54 +19,57 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "PhD Thesis, Human Intracranial Neurophysiology Memory and Neuromodulation"
-  company = "Drs. Jon Willie and Annabelle Singer, Emory University School of Medicine"
+  title = "Sub-internship, Functional Neurosurgery"
+  company = "Dr. Romain Carron, Aix-Marseille Université, La Timone Hospital"
+  company_url = ""
+  location = "Marseilles, France"
+  date_start = "2024-09-01"
+  date_end = "2024-09-01"
+  description = """Participated in stereotactic surgical planning with the ROSA robot, scrubbed into and assisted cases including DBS/VNS implants, SEEG implants/removals, stereotactic biopsies, stimulator changes, and Gamma Knife procedures; assisted with pre- and post-op care, shadowed outpatient clinics, and attended epilepsy surgery planning and surgery scheduling meetings."""
+
+[[experience]]
+  title = "Observership, Surgical Approach to Low-Grade Glioma"
+  company = "Pr. Hugues Duffau, Gui de Chauliac Hospital"
+  company_url = ""
+  location = "Montpellier, France"
+  date_start = "2024-10-01"
+  date_end = "2024-10-01"
+  description = """Observed awake surgeries with direct electrical stimulation of the brain to guide resection of low-grade glioma and attended clinic"""
+
+[[experience]]
+  title = "Sub-internship, Neurosurgery"
+  company = "Stanford University"
+  company_url = ""
+  location = "Palo Alto, CA"
+  date_start = "2024-09-01"
+  date_end = "2024-10-01"
+  description = """"""
+
+  [[experience]]
+  title = "Sub-internship, Neurosurgery"
+  company = "University of Souther California"
+  company_url = ""
+  location = "Los Angeles, CA"
+  date_start = "2024-08-01"
+  date_end = "2024-08-01"
+  description = """"""
+
+  [[experience]]
+  title = "Sub-internship, Neurosurgery"
+  company = "Wahington University in St. Louis"
+  company_url = ""
+  location = "St. Louis, MO"
+  date_start = "2024-07-01"
+  date_end = "2024-07-01"
+  description = """"""
+
+  [[experience]]
+  title = "Sub-internship, Neurosurgery"
+  company = "Emory University School of Medicine"
   company_url = ""
   location = "Atlanta, GA"
-  date_start = "2018-06-01"
-  date_end = "2023-04-01"
-  description = """Researched the effects of sensory stimulation in specific human brain regions, as well as that of low-amplitude direct electrical stimulation circuits involved on memory."""
-
-[[experience]]
-  title = "Research Associate, Molecular Biology of Mental Disorders"
-  company = "Drs. Daniel Hoeppner and Thomas Hyde, Lieber Institute for Brain Development"
-  company_url = "https://www.libd.org/"
-  location = "Baltimore, MD"
-  date_start = "2014-08-01"
-  date_end = "2016-05-01"
-  description = """Studied gene expression in specific regions of the human brain, including the hippocampal dentate gyrus, of various mental disorders such as schizophrenia, major depressive disorder and bipolar disorder
-  Responsibilities included:
-  
-  * Laser capture microdissection
-  * RNA extraction with outsourcing of sequencing
-  * Analysis of gene expression using RNA-seq data and R programming language
-  """
-
-[[experience]]
-  title = "Research Assistant, Behavioral Neurophysiology of the Rodent Hippocampus"
-  company = "Dr. James Knierim, Johns Hopkins University"
-  company_url = ""
-  location = "Baltimore, MD"
-  date_start = "2012-06-01"
-  date_end = "2014-06-01"
-  description = """Trained rodent subjects for behavioral experiments, prepared electrophysiological apparatus and participated in recording in-vivo, set-up a comprehensive data acquisition system and video-tracking software."""
-
-  [[experience]]
-  title = "Research Assistant, Molecular Biology of Alzheimer's Disease"
-  company = "Dr. Jean-Noel Octave, Université Catholique de Louvain"
-  company_url = ""
-  location = "Brussels, Belgium"
-  date_start = "2011-06-01"
-  date_end = "2011-06-01"
-  description = """Studied the role of Amyloid-beta Precursor Protein (APP) in modulating cholesterol homeostasis in rodent cortical neurons. Methods used included culture of rodent cortical neurons, infection of neurons with recombinant adenovirus to induce overexpression of APP gene, RNA extraction and reverse transcription, and real-time quantitative Polymerase Chain Reaction."""
-
-  [[experience]]
-  title = "Research Assistant, Comparative Genomics"
-  company = "Dr. Cécile Neuvéglise, AgroParisTech"
-  company_url = ""
-  location = "Paris, France"
-  date_start = "2011-01-01"
-  date_end = "2011-01-01"
-  description = """Methods: yeast cell culture in various environments, chromosomal extraction, and pulsed-field gel electrophoresis technique."""
+  date_start = "2024-06-01"
+  date_end = "2024-06-01"
+  description = """"""
   
 +++
